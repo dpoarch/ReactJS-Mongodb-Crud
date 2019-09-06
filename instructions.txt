@@ -1,0 +1,21 @@
+Please follow the instruction:
+
+- Open your command prompt and run npm install
+- run on your command prompt npm start
+
+url: localhost:3000
+
+=======================================================
+
+- Open a new prompt and cd at the directory api
+- run npm install and npm start
+
+api url: localhost:4000
+
+=======================================================
+
+- open your mongodb compass and the port should be 27017
+- make a new database named reactcrud
+- make a collection named business
+
+thanks
